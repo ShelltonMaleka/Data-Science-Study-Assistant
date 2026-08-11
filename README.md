@@ -1,4 +1,4 @@
-\# Data Science Study Assistant
+# Data Science Study Assistant
 
 
 

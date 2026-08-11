@@ -5,6 +5,16 @@ llm = ChatOllama(
     temperature=0
 )
 
-response = llm.invoke("Explain machine learning in simple terms.")
+print("Data Science Study Assistant")
+print("Type 'exit' to quit.")
 
-print(response.content)
+while True:
+    question = input("\nYou: ")
+
+    if question.lower() == "exit":
+        print("Goodbye!")
+        break
+
+    response = llm.invoke(question)
+
+    print(f"\nAssistant: {response.content}")

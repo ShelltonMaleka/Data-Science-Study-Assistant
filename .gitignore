@@ -4,3 +4,24 @@ __pycache__/
 .env
 .streamlit/secrets.toml
 chroma_db/
+.agents/
+# Virtual environment
+.venv/
+venv/
+
+# API credentials
+.env
+.env.*
+
+# Vector databases
+chroma_db/
+chroma_db_backup/
+chroma_db_old/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Temporary development files
+study_assistant_review.py
+t_tavily.py

@@ -77,7 +77,7 @@ The application follows a retrieval-first approach. The language model is instru
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 | Technology       | Purpose                                     |
 | ---------------- | ------------------------------------------- |

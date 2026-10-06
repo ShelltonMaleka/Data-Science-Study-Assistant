@@ -10,7 +10,7 @@ Unlike a conventional chatbot, the assistant prioritises uploaded study material
 
 ---
 
-## 🎯 Project Overview
+##  Project Overview
 
 Students often spend considerable time searching through lengthy lecture notes to find specific explanations or concepts.
 
@@ -31,7 +31,7 @@ The project explores how semantic search, vector databases, local language model
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 ```text
                 Student Question
@@ -95,7 +95,7 @@ The application follows a retrieval-first approach. The language model is instru
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the repository
 
@@ -183,7 +183,7 @@ Open the local URL displayed in your terminal, usually:
 
 ---
 
-## 🧪 Functional Testing
+##  Functional Testing
 
 The application has been tested using academic and general-knowledge questions.
 
@@ -206,7 +206,7 @@ These results represent initial functional testing, not a comprehensive evaluati
 
 ---
 
-## 📈 Future Improvements
+##  Future Improvements
 
 - [ ] Implement dynamic PDF uploading.
 - [ ] Support multiple lecture documents.
@@ -222,7 +222,7 @@ These results represent initial functional testing, not a comprehensive evaluati
 
 ---
 
-## 🔒 Privacy and Limitations
+##  Privacy and Limitations
 
 The project uses a locally running LLM through Ollama, reducing reliance on external hosted inference services.
 
